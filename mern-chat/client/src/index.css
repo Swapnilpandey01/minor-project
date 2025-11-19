@@ -1,0 +1,4 @@
+* { box-sizing: border-box; }
+html,body,#root { height: 100%; margin: 0; }
+input { padding: 8px; width: 100%; }
+button { padding: 8px 12px; cursor: pointer; }
